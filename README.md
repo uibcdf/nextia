@@ -26,3 +26,7 @@ DiscoveryEngine does not inherently invent hypotheses through opaque LLM reasoni
 This repository establishes the implementation home for Nextia. APIs, persistence technology, and event mechanisms are intentionally not frozen yet.
 
 The normative conceptual definition is maintained in [MOLI Platform Architecture 1.0](https://github.com/uibcdf/moli/tree/main/architecture_1.0).
+
+## Initial design
+
+See the [Initial DiscoveryProject slice](devguide/INITIAL_SLICE.md) proposal and [implementation issue](https://github.com/uibcdf/nextia/issues/1).
