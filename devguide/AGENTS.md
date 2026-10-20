@@ -13,3 +13,6 @@ report. Keep technical facts and defect details in maintained documents,
 tests and owning issues. Put lasting working instructions specific to this
 directory here; put repository-wide working instructions in the root
 `AGENTS.md`.
+When documenting a future public release, follow the title check in
+`../MOLI_GUIDE.md#moli-engineering-baseline`; this design-stage repository
+does not yet claim a public package or release route.
